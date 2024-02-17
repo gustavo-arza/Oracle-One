@@ -25,10 +25,10 @@ Por ejemplo:
 **Extras:**
 - Un botón que copie el texto encriptado/desencriptado para la sección de transferencia al igual que la funcionalidad de `ctrl+C` o la opción "copiar" de una aplicacion.
 
-Tenemos un periodo de tiempo de dos semanas para desarrollar el proyecto y vamos a trabajar con el sistema ágil de desarrollo, utilizando el Trello de la siguiente forma: 
-1. La columna **Listos para iniciar** presenta las tarjetas con elementos que aun no fueron desarrollados.
-2. En la columna **En Desarrollo** estarán los elementos que estés desarrollando en el momento. Al iniciar una tarea, podrás mover la tarjeta que contiene dicha tarea para esta columna.
-3. En la columna **Pausado** estarán los elementos que comenzaste a desarrollar, pero necesitaste parar por algún motivo.
-4. Por fin, en la columna **Concluido** estarán los elementos ya concluidos.
-
-El Trello es una herramienta de uso individual para que puedas controlar el progreso de tus actividades, pero no será evaluada.
+[Trello]
+Durante el periodo de dos semanas se desarrolla el proyecto y se trabajara con una metologia ágil de desarrollo (Kanban), utilizando el Trello de la siguiente forma: 
+1. La columna **Listos para iniciar** presenta elementos que aun no han sido desarrollados.
+2. En la columna **En Desarrollo** estarán elementos en desarrollo al momento. Al iniciar una tarea, podrás mover la tarjeta que contiene dicha tarea para esta columna.
+3. En la columna **Pausado** estarán los elementos que en desarrollo pero obligados a parar por algún motivo.
+4. Finalmente, en la columna **Concluido** estarán los elementos ya concluidos.
+[El Trello es una herramienta de uso individual para controlar el progreso de tus actividades y no sometida a evaluacion.]
